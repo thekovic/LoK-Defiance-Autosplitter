@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="16">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"current unit"</Description>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>10</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>defiance.exe+330BC4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"debug menu X"</Description>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>5</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>defiance.exe+1B1F54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"debug menu Y"</Description>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>5</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>defiance.exe+1B1F5C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"x"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>defiance.exe+14D4D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"y"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>defiance.exe+14D4DC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"eldergod hp"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"defiance.exe"+0020182C</Address>
+      <Offsets>
+        <Offset>194</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Code :mov [esi+ecx],dl</Description>
+      <Address>00422282</Address>
+      <ModuleName>defiance.exe</ModuleName>
+      <ModuleNameOffset>22282</ModuleNameOffset>
+      <Before>
+        <Byte>8D</Byte>
+        <Byte>49</Byte>
+        <Byte>00</Byte>
+        <Byte>8A</Byte>
+        <Byte>11</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>14</Byte>
+        <Byte>0E</Byte>
+      </Actual>
+      <After>
+        <Byte>41</Byte>
+        <Byte>84</Byte>
+        <Byte>D2</Byte>
+        <Byte>75</Byte>
+        <Byte>F6</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>

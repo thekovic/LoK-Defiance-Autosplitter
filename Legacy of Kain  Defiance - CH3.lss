@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.6.0">
+  <GameIcon />
+  <GameName>
+  </GameName>
+  <CategoryName>
+  </CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>9</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/19/2017 17:44:04" isStartedSynced="True" ended="02/19/2017 17:46:31" isEndedSynced="True" />
+    <Attempt id="2" started="02/19/2017 17:46:44" isStartedSynced="True" ended="02/19/2017 17:47:06" isEndedSynced="True" />
+    <Attempt id="3" started="02/19/2017 17:47:15" isStartedSynced="True" ended="02/19/2017 17:47:18" isEndedSynced="True" />
+    <Attempt id="4" started="02/19/2017 17:47:19" isStartedSynced="True" ended="02/19/2017 17:51:40" isEndedSynced="True" />
+    <Attempt id="5" started="02/19/2017 17:52:32" isStartedSynced="True" ended="02/19/2017 17:52:45" isEndedSynced="True" />
+    <Attempt id="6" started="02/19/2017 17:52:57" isStartedSynced="True" ended="02/19/2017 17:59:02" isEndedSynced="True">
+      <RealTime>00:06:04.5000000</RealTime>
+    </Attempt>
+    <Attempt id="7" started="02/19/2017 17:59:43" isStartedSynced="True" ended="02/19/2017 17:59:55" isEndedSynced="True" />
+    <Attempt id="8" started="02/19/2017 18:00:09" isStartedSynced="True" ended="02/19/2017 18:05:02" isEndedSynced="True">
+      <RealTime>00:04:52.9390000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Chapter End</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:52.9390000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:52.9390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:06:04.5000000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:04:52.9390000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

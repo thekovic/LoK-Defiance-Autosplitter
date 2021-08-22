@@ -1,14 +1,11 @@
-# LoK-Defiance-Autosplitter
-Uploaded with TheDuriel's permission for the purpose of updating the link for LiveSplit
-
-## Original readme
-
 defiance.exe 
 
 start the run when either of these values change from their defaults while unside unit "shold1a"
 
 defiance.exe+14D4D8 float, current X coords, default: -3621.164551
+
 defiance.exe+14D4DC float, current Y coords, default: -1271.559814
+
 
 split whenever this address contains one of the following strings
 
@@ -36,4 +33,3 @@ boss hp starts at 2750, the game ends at 0
 any of these should work
 
 http://i.imgur.com/v9OAEo5.png
- 

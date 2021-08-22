@@ -1,0 +1,1645 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Legacy of Kain : Defiance</GameName>
+  <CategoryName>99%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>19</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/17/2017 23:12:08" isStartedSynced="True" ended="09/17/2017 23:12:08" isEndedSynced="True" />
+    <Attempt id="2" started="09/17/2017 23:12:09" isStartedSynced="True" ended="09/17/2017 23:13:23" isEndedSynced="True" />
+    <Attempt id="3" started="09/17/2017 23:18:17" isStartedSynced="True" ended="09/18/2017 02:53:31" isEndedSynced="True">
+      <RealTime>03:28:02.6970000</RealTime>
+      <PauseTime>00:07:11.1380000</PauseTime>
+    </Attempt>
+    <Attempt id="4" started="09/18/2017 03:00:19" isStartedSynced="True" ended="09/18/2017 03:01:10" isEndedSynced="True">
+      <PauseTime>00:00:15.7780000</PauseTime>
+    </Attempt>
+    <Attempt id="5" started="09/18/2017 03:01:15" isStartedSynced="True" ended="09/18/2017 03:01:19" isEndedSynced="True" />
+    <Attempt id="6" started="09/18/2017 03:02:40" isStartedSynced="True" ended="09/18/2017 03:04:06" isEndedSynced="True">
+      <PauseTime>00:00:42.1450000</PauseTime>
+    </Attempt>
+    <Attempt id="7" started="09/21/2017 12:08:30" isStartedSynced="True" ended="09/21/2017 12:08:52" isEndedSynced="True">
+      <PauseTime>00:00:10.7110000</PauseTime>
+    </Attempt>
+    <Attempt id="8" started="09/25/2017 00:21:25" isStartedSynced="True" ended="09/25/2017 00:21:57" isEndedSynced="True" />
+    <Attempt id="9" started="09/25/2017 00:22:56" isStartedSynced="True" ended="09/25/2017 00:22:59" isEndedSynced="True" />
+    <Attempt id="10" started="09/25/2017 00:23:31" isStartedSynced="True" ended="09/25/2017 00:52:06" isEndedSynced="True" />
+    <Attempt id="11" started="09/25/2017 00:52:18" isStartedSynced="True" ended="09/25/2017 03:18:41" isEndedSynced="True">
+      <RealTime>02:25:01.4290000</RealTime>
+      <PauseTime>00:01:20.8080000</PauseTime>
+    </Attempt>
+    <Attempt id="12" started="09/25/2017 21:41:35" isStartedSynced="True" ended="09/25/2017 21:45:32" isEndedSynced="True" />
+    <Attempt id="13" started="09/25/2017 21:45:32" isStartedSynced="True" ended="09/25/2017 21:53:30" isEndedSynced="True" />
+    <Attempt id="14" started="09/25/2017 21:53:35" isStartedSynced="True" ended="09/25/2017 21:53:36" isEndedSynced="True" />
+    <Attempt id="15" started="09/25/2017 21:55:29" isStartedSynced="True" ended="09/25/2017 21:55:53" isEndedSynced="True" />
+    <Attempt id="16" started="09/25/2017 21:55:55" isStartedSynced="True" ended="09/25/2017 21:59:10" isEndedSynced="True" />
+    <Attempt id="17" started="09/25/2017 21:59:19" isStartedSynced="True" ended="09/25/2017 22:11:39" isEndedSynced="True" />
+    <Attempt id="18" started="09/25/2017 22:11:46" isStartedSynced="True" ended="09/25/2017 22:25:52" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>K Life 1 - Prison</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:40.7200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:35.0810000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:38.5430000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:37.4770000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:40.7200000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:38.7420000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:35.0810000</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:35.7420000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:35.3940000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:36.9290000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K TK 1 - Dungeons</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:58.8030000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:16.7350000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:19.6500000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:17.6400000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:18.0830000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:16.7350000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:17.0070000</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:17.0140000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:17.3260000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:18.7540000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Reaver 1 - Church</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:32.3320000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:28.5460000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:38.4990000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:37.0500000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:33.5290000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:33.5960000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:29.8900000</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:34.0350000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:40.8290000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:28.5460000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 2 - Above Church</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:32.1990000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:55.6350000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:00.1750000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:09.7020000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:59.8670000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:02.8980000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:56.9790000</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:01.3790000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:55.6350000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:55.6490000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K TK 2 - Before Training</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:20.1190000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:40.5120000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:50.7020000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:58.2380000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:47.9200000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:56.4800000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:40.5880000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:44.1400000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:40.5120000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 4 - After Training</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:24.5510000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:57.9250000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:18.4390000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:03.7640000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:04.4320000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:14.7740000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:02:04.4220000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:57.9250000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Reaver 2 - Drawbridge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:37.8570000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:10.6050000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:03:21.5350000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:33.2680000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:13.3060000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:10.6050000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:01:11.6460000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:10.9950000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K TK 3 - Shield Door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:01.8400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:24.3440000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:24.3440000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:23.5460000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:23.9830000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:01:09.7490000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:29.7800000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 5 - Shield Door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:22.4460000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:20.1250000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:22.5970000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:22.0280000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:20.6060000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:21.2240000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:20.1250000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K TK 4 - Waterways</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:41.3850000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:15.6380000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:19.6910000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:16.2590000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:18.9390000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:15.6380000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:16.5790000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 5 - Möbius Cave</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:38.7300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:48.5450000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:07.3590000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:59.9060000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:57.3450000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:51.0160000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:48.5450000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>--- Chapter 1+3 ---</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:19.1260000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:34.3850000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:34.3850000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:38.8540000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:40.3960000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:01:20.5190000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:35.1810000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 2 Escape</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:15.9440000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:10.1540000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:04:38.1450000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:45.3590000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:56.8180000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:02:10.1540000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Reaver 1 - Light</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:55.2690000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:38.4230000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:38.4230000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:21.3010000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:39.3250000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R TK 1 - Mausoleum</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:13.6440000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:15.8900000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:04:43.2770000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:15.8900000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:04:18.3750000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R TK 2 - Graveyard</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:22:00.3310000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:26.3450000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:26.3450000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:33.4810000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:46.6870000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Reaver 2 - Dark</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:24:11.6310000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:11.3000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:03:03.2390000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:16.1780000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:11.3000000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 1 - Darkforge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:05.2820000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:53.6510000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:03.0710000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:53.6510000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 2 - Courtyard</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:26:34.6290000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:29.3470000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:13.5060000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:29.3470000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 3 - Darkdoor</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:27:10.1010000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:35.4720000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:48.5830000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:35.4720000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>--- Chapter 2+4 ---</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:09.7190000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:59.1470000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:59.1470000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:59.6180000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 6 - Möbius backwards</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:39.3800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:29.5530000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:29.5530000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:29.6610000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Reaver 3 - Revolving</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:33.0600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:53.6800000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:09.4020000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:53.6800000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K TK 5 - Revolving</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:37.8840000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:04.8240000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:06.1950000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:04.8240000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 7 - Pillars</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:30:11.5750000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:33.6910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:44.4870000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:33.6910000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>--- Chapter 5 ---</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:31:30.9650000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:07.9920000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:07.9920000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:19.3900000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 4 - Mercenaries</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:31:46.9960000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:16.0310000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:17.4310000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:16.0310000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Reaver 3 - Fire</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:37:02.3080000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:15.3120000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:07:49.5260000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:05:15.3120000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R TK 3 - Pillars</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:39:49.9750000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:47.6670000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:03:40.2910000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:47.6670000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 5 - Air</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:47:03.2010000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:55.5040000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:06:55.5040000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:07:13.2260000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Reaver 4 - Air</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:50:09.4010000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:21.3940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:21.3940000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:03:06.2000000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>--- Chapter 6+8 ---</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:55:46.8330000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:42.8050000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:04:42.8050000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:05:37.4320000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 8 - Solemembe</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:56:31.8720000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:43.9930000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:00:43.9930000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:45.0390000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Reaver 4 - Light</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:58:29.0810000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:56.7340000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:56.7340000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:57.2090000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K TK 6 - Fire</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:59:13.3070000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:27.7940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:27.7940000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:44.2260000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 9 - Water</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:00:55.9670000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:18.3000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:18.3000000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:42.6600000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Reaver 5 - Water</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:02:03.1950000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:07.2280000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:27.5850000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:07.2280000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 10 - Earth</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:05:06.0590000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:02.8640000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:05:07.0210000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:03:02.8640000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K TK 7 - Dark</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:06:58.6920000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:31.7890000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:31.7890000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:52.6330000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>--- Chapter 7+9 ---</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:08:45.0210000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:32.8950000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:32.8950000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:46.3290000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Spear 1 - Library</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:13:15.8920000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:30.8710000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:05:06.7090000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:04:30.8710000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Spear 2 - Exit</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:23:15.3660000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:17.0840000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:09:17.0840000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:09:59.4740000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Use Spear 1+2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:25:22.8270000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:12.2360000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:12.2360000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:07.4610000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Spear 3 - Catacombs</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:26:19.2650000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:56.4380000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:14.3230000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:56.4380000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 6 - Tower</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:26:42.3780000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:23.1130000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:42.9250000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:23.1130000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R TK 4 - Water Entrance</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:27:44.1330000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:01.7550000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:28.9730000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:01.7550000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 7 - Water</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:31:22.4460000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:38.3130000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:04:49.8870000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:03:38.3130000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Reaver 5 - Water</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:31:30.6020000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:08.1560000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:06.0660000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:08.1560000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 8 - Grand Hall</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:35:18.3260000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:27.4830000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:27.4830000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:03:47.7240000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Key - Crypt</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:39:54.7160000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:58.1860000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:58.1860000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:04:36.3900000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R TK 5 - Earth Door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:40:42.8510000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:48.1350000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:48.5970000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:48.1350000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>--- Chapter 8 ---</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:42:11.2620000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:28.4110000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:54.7930000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:28.4110000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 11 - Oracle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:42:40.7370000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:23.9020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:23.9020000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:29.4750000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R TK 6 - Earth</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:44:35.9160000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:55.1790000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:04.0750000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:55.1790000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Reaver 6 - Earth</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:48:53.4540000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:17.5380000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:05:28.1890000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:04:17.5380000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 9 - Cathedral</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:52:43.0630000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:49.6090000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:05:17.7680000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:03:49.6090000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Turel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:56:05.8910000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:22.8280000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:04:36.9900000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:03:22.8280000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>--- Chapter 10 ---</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:56:34.9970000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:24.7830000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:24.7830000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:29.1060000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Kain</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:57:39.6390000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:04.6420000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:12.5860000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:04.6420000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Raz</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:58:42.5490000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:26.8080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:26.8080000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:02.9100000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 9 - Water Entrance</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:59:26.7150000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:44.1660000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:50.2900000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:44.1660000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R TK 7 - Earth Door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:00:44.3090000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:17.5940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:35.8130000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:17.5940000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 10 - Vorador Statue</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:01:29.0870000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:44.7780000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:07.0920000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:44.7780000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R TK 8 - Underwater</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:03:53.0720000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:23.9850000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:02:59.0480000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:23.9850000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Life 11 - Old Earth Door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:05:03.2570000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:00.1150000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:00.1150000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:10.1850000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Crypt</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:05:46.1720000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:42.9150000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:48.4090000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:42.9150000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>R Reaver 7 - Ariel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:11:53.2760000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:07.1040000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:39:40.0480000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:06:07.1040000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K Life 12 - Mortanius</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:19:47.8060000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:54.5300000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:10:06.9070000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:07:54.5300000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>K TK 8 - Citadel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:21:23.9450000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:36.1390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:09:45.2470000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:36.1390000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Elder God Start</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:22:38.6620000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:14.7170000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:08:19.7970000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:14.7170000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Elder God End</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:25:01.4290000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:47.2220000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:01:47.2220000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:22.7670000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
