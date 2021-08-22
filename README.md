@@ -1,8 +1,11 @@
 # LoK-Defiance-Autosplitter
 Uploaded with TheDuriel's permission for the purpose of updating the link for LiveSplit
+## Original README
+Autosplitting, start, and reset available. Code by blastedt and memory addresses found by TheDuriel. Feel free to contact either of us in event of failure.
 
-## Original readme
+The timer starts when you begin moving in the first level. It splits when you first enter certain maps. It is extremely trivial to add more potential splits. If you'd like your splits to be added, compile a list and message me on Steam or Discord.
 
+## Original explanation file (vchdh.txt)
 defiance.exe 
 
 start the run when either of these values change from their defaults while unside unit "shold1a"
